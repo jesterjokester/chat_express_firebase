@@ -60,7 +60,7 @@ public class RijndaelCrypt {
     /**
     Encryptor.
  
-    @text String to be encrypted
+    @text String to be encrypte
     @return Base64 encrypted text
  
     */
